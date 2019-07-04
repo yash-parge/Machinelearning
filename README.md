@@ -1,5 +1,5 @@
-# Machinelearning with python
-Predicting patterns based on a simple 3 layer deep learning model built in python using the numpy library.
+# Convolutional Neural Networks
+Predicting patterns based on a simple 3 layer supervised deep learning model built in python using the numpy library.
 Simple neural network with 3 (plus one bias) input nodes 5 hidden nodes and 1 output node.
 ## Bias
 Bias for the first layer is added via an additional coloumn in the training data with the value of 1 on all rows.
