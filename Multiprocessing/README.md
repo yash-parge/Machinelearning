@@ -1,0 +1,2 @@
+# Multiprocessing
+The same model except with multiprocessing capabilities. Each processor starts off with random weights decreasing the chance of the model being stuck in a local minimum. Multiprocessing file calls Neural network file and makes 4 processes that run it simultaneously, then returning the outputs of all processes.
