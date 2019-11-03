@@ -4,3 +4,5 @@ Simple neural network with 3 (plus one bias) input nodes 5 hidden nodes and 1 ou
 ## Bias
 Bias for the first layer is added via an additional coloumn in the training data with the value of 1 on all rows.
 Bias for the hidden layer is added via a conventional method.
+##Preprocessing
+Most of the data preprocessing is done automatically within the code, including generation of a validation dataset and testing of the validation dataset.
